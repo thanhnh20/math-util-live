@@ -39,7 +39,7 @@ public class MathUtil {
         for (int i = 2; i <= n; i++) {
             product *= i;
         }   //nhân từ 2 -> n
-
+               
         return product;
     }
 }
