@@ -41,5 +41,7 @@ public class MathUtil {
         }   //nhân từ 2 -> n
                
         return product;
+        
+        
     }
 }

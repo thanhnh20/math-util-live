@@ -25,6 +25,9 @@ public class MathUtilLive {
         // thêm code sau lần đầu tiên làm chuyện ấy 3:51
         System.out.println("1! = 1; actual: " + MathUtil.getFactorial(1));
         System.out.println("3! = 6; actual: " + MathUtil.getFactorial(3));
+        
+        // Them code demo
+        System.out.println("4! = 24; actual: " + MathUtil.getFactorial(4));
         // kĩ thuật kiểm thử phần mềm: ước lượng giá trị trả về của hàm là gì
         // expected value: 5! = 120;
         // hàm viết khi chạy thực tế là mấy - actual
